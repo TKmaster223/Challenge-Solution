@@ -1,0 +1,15 @@
+C:\Users\musa tukur\Farouk Musa Tukur BU22CIT7159\Challenge-Solution\RegexChallengeSolution\bin\Debug\net6.0\RegexChallengeSolution.exe
+C:\Users\musa tukur\Farouk Musa Tukur BU22CIT7159\Challenge-Solution\RegexChallengeSolution\bin\Debug\net6.0\RegexChallengeSolution.deps.json
+C:\Users\musa tukur\Farouk Musa Tukur BU22CIT7159\Challenge-Solution\RegexChallengeSolution\bin\Debug\net6.0\RegexChallengeSolution.runtimeconfig.json
+C:\Users\musa tukur\Farouk Musa Tukur BU22CIT7159\Challenge-Solution\RegexChallengeSolution\bin\Debug\net6.0\RegexChallengeSolution.dll
+C:\Users\musa tukur\Farouk Musa Tukur BU22CIT7159\Challenge-Solution\RegexChallengeSolution\bin\Debug\net6.0\RegexChallengeSolution.pdb
+C:\Users\musa tukur\Farouk Musa Tukur BU22CIT7159\Challenge-Solution\RegexChallengeSolution\obj\Debug\net6.0\RegexChallengeSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musa tukur\Farouk Musa Tukur BU22CIT7159\Challenge-Solution\RegexChallengeSolution\obj\Debug\net6.0\RegexChallengeSolution.AssemblyInfoInputs.cache
+C:\Users\musa tukur\Farouk Musa Tukur BU22CIT7159\Challenge-Solution\RegexChallengeSolution\obj\Debug\net6.0\RegexChallengeSolution.AssemblyInfo.cs
+C:\Users\musa tukur\Farouk Musa Tukur BU22CIT7159\Challenge-Solution\RegexChallengeSolution\obj\Debug\net6.0\RegexChallengeSolution.csproj.CoreCompileInputs.cache
+C:\Users\musa tukur\Farouk Musa Tukur BU22CIT7159\Challenge-Solution\RegexChallengeSolution\obj\Debug\net6.0\RegexChallengeSolution.sourcelink.json
+C:\Users\musa tukur\Farouk Musa Tukur BU22CIT7159\Challenge-Solution\RegexChallengeSolution\obj\Debug\net6.0\RegexChallengeSolution.dll
+C:\Users\musa tukur\Farouk Musa Tukur BU22CIT7159\Challenge-Solution\RegexChallengeSolution\obj\Debug\net6.0\refint\RegexChallengeSolution.dll
+C:\Users\musa tukur\Farouk Musa Tukur BU22CIT7159\Challenge-Solution\RegexChallengeSolution\obj\Debug\net6.0\RegexChallengeSolution.pdb
+C:\Users\musa tukur\Farouk Musa Tukur BU22CIT7159\Challenge-Solution\RegexChallengeSolution\obj\Debug\net6.0\RegexChallengeSolution.genruntimeconfig.cache
+C:\Users\musa tukur\Farouk Musa Tukur BU22CIT7159\Challenge-Solution\RegexChallengeSolution\obj\Debug\net6.0\ref\RegexChallengeSolution.dll
